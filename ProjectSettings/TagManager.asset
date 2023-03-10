@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shape
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 1452603847
+    locked: 0
+  - name: 1
+    uniqueID: 3941088467
+    locked: 0
+  - name: 2
+    uniqueID: 1298943377
+    locked: 0
+  - name: 3
+    uniqueID: 2068738279
+    locked: 0
+  - name: 4
+    uniqueID: 2786821199
+    locked: 0
+  - name: 5
+    uniqueID: 663485657
+    locked: 0
+  - name: 6
+    uniqueID: 4187623907
+    locked: 0
+  - name: 7
+    uniqueID: 756944165
+    locked: 0
+  - name: 8
+    uniqueID: 2683392749
+    locked: 0
+  - name: 9
+    uniqueID: 383053337
+    locked: 0
+  - name: 10
+    uniqueID: 568495757
+    locked: 0
+  - name: 11
+    uniqueID: 2133433567
+    locked: 0
+  - name: 12
+    uniqueID: 855743803
+    locked: 0
+  - name: 13
+    uniqueID: 3849718915
+    locked: 0
+  - name: 14
+    uniqueID: 2864109919
+    locked: 0
+  - name: 15
+    uniqueID: 577969907
+    locked: 0
+  - name: 16
+    uniqueID: 1379995993
+    locked: 0
+  - name: UI
+    uniqueID: 3076572225
+    locked: 0
